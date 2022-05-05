@@ -1,1 +1,1 @@
-Hello there stranger! Welcome to "cult and cutlet". Waiting for the first blog, are you?
+Hello there stranger! Welcome to "cult and cutlet". Looking for something?
