@@ -1,0 +1,11 @@
+---
+layout: "default"
+---
+Hello there stranger! Welcome to "cult and cutlet". Looking for something?
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> 
+    </li>
+  {% endfor %}
+</ul>
