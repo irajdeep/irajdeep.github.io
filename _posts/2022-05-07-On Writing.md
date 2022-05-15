@@ -1,6 +1,9 @@
 ---
 layout: "default"
+date: 2022-05-07
 ---
+
+<i>Date:{{ page.date | date: "%-d %B %Y"}}</i>
 
 Surprisingly this is not my first take on writing; an attempt was made in the year 2010, after my 10th standard high school exams, when I was visiting my grandparents. My grandfather was a voracious writer; he used to write as a hobby for local magazines and newspapers on almost any topic. He didn't have any strong preference for the kind of writing; at times, it used to be short stories, another time essays, and then something else. It would be fair to say that he was my first inspiration for trying out writing – I aspired to write short stories back then, but one thing led to another, and it never happened.
 
